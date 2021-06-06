@@ -2,7 +2,7 @@ import uuid
 import random
 import json
 
-ORDER_STATUS = ['PLACED', 'INFLIGHT', 'COMPLETED', 'CANCELLED']
+ORDER_STATUS = ['PLACED', 'INPROGRESS', 'COMPLETED', 'CANCELLED']
 
 
 def generate_order():
