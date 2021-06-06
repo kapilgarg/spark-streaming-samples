@@ -2,7 +2,7 @@
 
 ## Basic
 ### Start TCP server  
->> python server.py  
+`>> python server.py`  
 
 ### Start the streaming application  
->> python .\order_count.py localhost 9998  
+`>> python .\order_count.py localhost 9998`    
